@@ -60,10 +60,6 @@ section {
     padding: 20px;
     width: 500px;
     color: #024e76;
-    /*border-style: solid;
-    border-width: 3px;
-    border-color: #024e76;
-    The three lines above can be shortened to the line below.*/
     border: solid 3px #024e76;
     position: absolute;
     bottom: 120px;
@@ -104,7 +100,7 @@ section {
 
 
 footer {
-    background-color: #fce138;
+    background: #fce138;
     width: 100%;
     padding: 40px 35px;
 }
