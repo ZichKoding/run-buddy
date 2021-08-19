@@ -211,6 +211,33 @@ section {
 }
 /* Meet The Trainers ends*/
 
+/* Reach Out begins*/
+.contact {
+    background-color: #024e76;
+    text-align: center;
+}
+
+.contact h2 {
+    color: #fce138;
+}
+
+.contact-info div {
+    width: 410px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    margin: 30px 0 0 60px;
+    color: white;
+}
+
+.contact-info iframe {
+    width: 400px;
+    height: 400px;
+
+}
+/* Reach Out begins*/
+
+
 /* Footer Style begins */
 footer {
     background: #fce138;
